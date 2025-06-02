@@ -1,3 +1,5 @@
+**`Mise à jour : version 1.1.4`**
+
 #  Exocounting Discord Bot
 
 Le bot de comptage Discord est conçu pour offrir une expérience de jeu interactive où les utilisateurs peuvent tester leur précision dans divers modes de comptage, y compris les modes décimal, binaire et aléatoire.
