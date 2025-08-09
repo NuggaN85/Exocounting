@@ -47,6 +47,7 @@ Le bot utilise des commandes slash pour interagir avec les utilisateurs. Voici l
 - `/relance_binary` : Relancer le jeu en mode Binaire.
 - `/relance_random` : Relancer le jeu en mode Aléatoire.
 - `/profile` : Afficher les statistiques de jeu d'un utilisateur.
+- `/stats` : Afficher les statistiques globales du serveur.
 
 ## Utilisation
 
